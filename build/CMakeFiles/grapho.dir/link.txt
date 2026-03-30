@@ -1,3 +1,0 @@
-C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\grapho.dir/objects.a
-C:\mingw64\bin\ar.exe qc CMakeFiles\grapho.dir/objects.a @CMakeFiles\grapho.dir\objects1.rsp
-C:\mingw64\bin\c++.exe  -mconsole -Wl,--whole-archive CMakeFiles\grapho.dir/objects.a -Wl,--no-whole-archive -o grapho.exe -Wl,--out-implib,libgrapho.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\grapho.dir\linkLibs.rsp

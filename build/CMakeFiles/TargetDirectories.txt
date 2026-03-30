@@ -1,5 +1,0 @@
-C:/Users/alyac/Desktop/labgraph/build/CMakeFiles/grapho.dir
-C:/Users/alyac/Desktop/labgraph/build/CMakeFiles/test_graph_core.dir
-C:/Users/alyac/Desktop/labgraph/build/CMakeFiles/test_parsers.dir
-C:/Users/alyac/Desktop/labgraph/build/CMakeFiles/edit_cache.dir
-C:/Users/alyac/Desktop/labgraph/build/CMakeFiles/rebuild_cache.dir
