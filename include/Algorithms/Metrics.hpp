@@ -134,7 +134,7 @@ public:
         }
         triangles /= 3;
         if (triads == 0) return 0.0;
-        return (3.0 * triangles) / triads;  // ✅
+        return (3.0 * triangles) / triads;  
     }
 
     // 6. количество точек сочленения 
